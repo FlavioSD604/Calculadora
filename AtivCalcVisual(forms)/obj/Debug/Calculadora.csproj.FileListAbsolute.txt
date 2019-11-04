@@ -1,0 +1,10 @@
+C:\Users\flavi\Documents\Etec Desenvolvimento de Sistemas\PA Programação e Algoritmos\AtivCalcVisual(forms)\AtivCalcVisual(forms)\bin\Debug\AtivCalcVisual(forms).exe.config
+C:\Users\flavi\Documents\Etec Desenvolvimento de Sistemas\PA Programação e Algoritmos\AtivCalcVisual(forms)\AtivCalcVisual(forms)\bin\Debug\AtivCalcVisual(forms).exe
+C:\Users\flavi\Documents\Etec Desenvolvimento de Sistemas\PA Programação e Algoritmos\AtivCalcVisual(forms)\AtivCalcVisual(forms)\bin\Debug\AtivCalcVisual(forms).pdb
+C:\Users\flavi\Documents\Etec Desenvolvimento de Sistemas\PA Programação e Algoritmos\AtivCalcVisual(forms)\AtivCalcVisual(forms)\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\flavi\Documents\Etec Desenvolvimento de Sistemas\PA Programação e Algoritmos\AtivCalcVisual(forms)\AtivCalcVisual(forms)\obj\Debug\AtivCalcVisual_forms_.Form1.resources
+C:\Users\flavi\Documents\Etec Desenvolvimento de Sistemas\PA Programação e Algoritmos\AtivCalcVisual(forms)\AtivCalcVisual(forms)\obj\Debug\AtivCalcVisual_forms_.Properties.Resources.resources
+C:\Users\flavi\Documents\Etec Desenvolvimento de Sistemas\PA Programação e Algoritmos\AtivCalcVisual(forms)\AtivCalcVisual(forms)\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\flavi\Documents\Etec Desenvolvimento de Sistemas\PA Programação e Algoritmos\AtivCalcVisual(forms)\AtivCalcVisual(forms)\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\Etec Desenvolvimento de Sistemas\PA Programação e Algoritmos\AtivCalcVisual(forms)\AtivCalcVisual(forms)\obj\Debug\AtivCalcVisual(forms).exe
+C:\Users\flavi\Documents\Etec Desenvolvimento de Sistemas\PA Programação e Algoritmos\AtivCalcVisual(forms)\AtivCalcVisual(forms)\obj\Debug\AtivCalcVisual(forms).pdb
